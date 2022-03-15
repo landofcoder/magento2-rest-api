@@ -1,5 +1,7 @@
 # Anatomy of Magento 2: API
 
+``Thinking Headless, make REST API``
+
    * [Anatomy of Magento 2: API](#anatomy-of-magento-2-api)
       * [Areas for further investigation](#areas-for-further-investigation)
       * [The Basics](#the-basics)
